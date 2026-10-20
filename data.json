@@ -1,0 +1,218 @@
+{
+  "projects": [
+    {
+      "name": "福卡",
+      "cat": "brand",
+      "title": "Brand Identity",
+      "cn": "品牌设计",
+      "desc": "品牌视觉 / VI / 应用系统",
+      "files": [
+        "assets/品牌设计/福卡/福卡-1.png",
+        "assets/品牌设计/福卡/福卡-5-1.png",
+        "assets/品牌设计/福卡/福卡-2.png",
+        "assets/品牌设计/福卡/福卡-4.png",
+        "assets/品牌设计/福卡/福卡-5.png",
+        "assets/品牌设计/福卡/福卡-6.png",
+        "assets/品牌设计/福卡/福卡-8.png",
+        "assets/品牌设计/福卡/福卡-3.png",
+        "assets/品牌设计/福卡/福卡-7.png"
+      ]
+    },
+    {
+      "name": "裕福集团",
+      "cat": "brand",
+      "title": "Corporate Identity",
+      "cn": "品牌设计",
+      "desc": "集团品牌 / VI / 应用",
+      "files": [
+        "assets/品牌设计/裕福集团/1.png",
+        "assets/品牌设计/裕福集团/2.png",
+        "assets/品牌设计/裕福集团/3.png",
+        "assets/品牌设计/裕福集团/4.png",
+        "assets/品牌设计/裕福集团/5.png",
+        "assets/品牌设计/裕福集团/6.png",
+        "assets/品牌设计/裕福集团/7.png",
+        "assets/品牌设计/裕福集团/8.png"
+      ]
+    },
+    {
+      "name": "关平医疗",
+      "cat": "brand",
+      "title": "Brand Identity",
+      "cn": "品牌设计",
+      "desc": "品牌视觉 / 医疗",
+      "files": [
+        "assets/品牌设计/关平医疗/关平医疗-1.png",
+        "assets/品牌设计/关平医疗/关平医疗-2.png",
+        "assets/品牌设计/关平医疗/关平医疗-3.png"
+      ]
+    },
+    {
+      "name": "华夏典当行",
+      "cat": "brand",
+      "title": "Brand Upgrade",
+      "cn": "品牌设计",
+      "desc": "品牌升级 / 视觉系统",
+      "files": [
+        "assets/品牌设计/华夏典当行/华夏典当行升级-1.png",
+        "assets/品牌设计/华夏典当行/华夏典当行升级-3.png",
+        "assets/品牌设计/华夏典当行/华夏典当行升级-2.png"
+      ]
+    },
+    {
+      "name": "数字福卡",
+      "cat": "brand",
+      "title": "Digital Brand",
+      "cn": "品牌设计",
+      "desc": "数字品牌 / 视觉应用",
+      "files": [
+        "assets/品牌设计/数字福卡/资源 31.png",
+        "assets/品牌设计/数字福卡/资源 32.png"
+      ]
+    },
+    {
+      "name": "秝之精酿",
+      "cat": "brand",
+      "title": "Brand Identity",
+      "cn": "品牌设计",
+      "desc": "品牌视觉 / 数字应用",
+      "files": [
+        "assets/品牌设计/秝之精酿/hz-1.png",
+        "assets/品牌设计/秝之精酿/hz-2.png",
+        "assets/品牌设计/秝之精酿/hz-3.png",
+        "assets/品牌设计/秝之精酿/hz-4.png"
+      ]
+    },
+    {
+      "name": "福臸",
+      "cat": "packaging",
+      "title": "Packaging Design",
+      "cn": "包装设计",
+      "desc": "包装视觉 / 产品应用",
+      "files": [
+        "assets/包装设计/福臸/资源 9.png",
+        "assets/包装设计/福臸/资源 11.png",
+        "assets/包装设计/福臸/资源 7.png",
+        "assets/包装设计/福臸/资源 8.png",
+        "assets/包装设计/福臸/资源 10.png"
+      ]
+    },
+    {
+      "name": "福鲜汇",
+      "cat": "packaging",
+      "title": "Packaging Design",
+      "cn": "包装设计",
+      "desc": "食品包装 / 产品视觉",
+      "files": [
+        "assets/包装设计/福鲜汇/box.psd.png",
+        "assets/包装设计/福鲜汇/资源 15.png",
+        "assets/包装设计/福鲜汇/资源 14.png",
+        "assets/包装设计/福鲜汇/资源 13.png"
+      ]
+    },
+    {
+      "name": "森醒",
+      "cat": "packaging",
+      "title": "Packaging Design",
+      "cn": "包装设计",
+      "desc": "产品包装 / 视觉系统",
+      "files": [
+        "assets/包装设计/森醒/资源 6.png",
+        "assets/包装设计/森醒/资源 1.png",
+        "assets/包装设计/森醒/资源 5.png",
+        "assets/包装设计/森醒/资源 4.png",
+        "assets/包装设计/森醒/资源 2.png",
+        "assets/包装设计/森醒/资源 3.png"
+      ]
+    },
+    {
+      "name": "森醒精酿",
+      "cat": "packaging",
+      "title": "Packaging Design",
+      "cn": "包装设计",
+      "desc": "精酿啤酒包装 / 产品视觉",
+      "files": [
+        "assets/包装设计/森醒精酿/1.jpg",
+        "assets/包装设计/森醒精酿/资源 1.png",
+        "assets/包装设计/森醒精酿/资源 2.png"
+      ]
+    }
+  ],
+  "logos": [
+    {
+      "name": "luckland",
+      "file": "assets/logo/luckland.png"
+    },
+    {
+      "name": "monica咖啡",
+      "file": "assets/logo/monica咖啡.png"
+    },
+    {
+      "name": "中石化裕福",
+      "file": "assets/logo/中石化裕福.png"
+    },
+    {
+      "name": "亚星博雅",
+      "file": "assets/logo/亚星博雅.png"
+    },
+    {
+      "name": "亿童优杰教育",
+      "file": "assets/logo/亿童优杰教育.png"
+    },
+    {
+      "name": "华夏五洲",
+      "file": "assets/logo/华夏五洲.png"
+    },
+    {
+      "name": "心礼妙盒",
+      "file": "assets/logo/心礼妙盒.png"
+    },
+    {
+      "name": "心驰车友会",
+      "file": "assets/logo/心驰车友会.png"
+    },
+    {
+      "name": "搜魅特婚庆",
+      "file": "assets/logo/搜魅特婚庆.png"
+    },
+    {
+      "name": "有道资本",
+      "file": "assets/logo/有道资本.png"
+    },
+    {
+      "name": "福讯信息",
+      "file": "assets/logo/福讯信息.png"
+    },
+    {
+      "name": "福鲤通",
+      "file": "assets/logo/福鲤通.png"
+    },
+    {
+      "name": "秝之精酿",
+      "file": "assets/logo/秝之精酿.png"
+    },
+    {
+      "name": "美加诺医疗",
+      "file": "assets/logo/美加诺医疗.png"
+    },
+    {
+      "name": "裕福珠宝",
+      "file": "assets/logo/裕福珠宝.png"
+    },
+    {
+      "name": "赤壁建筑设计院",
+      "file": "assets/logo/赤壁建筑设计院.png"
+    }
+  ],
+  "ui": [
+    "assets/ui:ux/1.png",
+    "assets/ui:ux/2.png",
+    "assets/ui:ux/3.png",
+    "assets/ui:ux/4.png",
+    "assets/ui:ux/5.png"
+  ],
+  "videos": [
+    "assets/视频/带福回家-s-web.mp4",
+    "assets/视频/闪购入驻-web.mp4"
+  ]
+}
